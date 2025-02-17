@@ -10,7 +10,6 @@ import { HeaderComponent } from './components/header/header.component';
     <app-header />
     <app-home />
   `,
-  templateUrl: './app.component.html',
   styleUrl: './app.component.css',
 })
 export class AppComponent {
